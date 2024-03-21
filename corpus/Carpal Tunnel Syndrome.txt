@@ -1,0 +1,9 @@
+Specialty: Orthopedic surgery,plastic surgery,neurology
+Symptoms: Numbness,tinglingin the thumb, index, middle finger, and half of ring finger.[1][2]
+Causes: Compression of themedian nerveat thecarpal tunnel[1]
+Risk factors: Genetics,work tasks
+Diagnostic method: Based on symptoms, physical examinations,electrodiagnostic tests[2]
+Differential diagnosis: Peripheral neuropathy,Radiculopathy,Plexopathy
+Prevention: None
+Treatment: Wrist splint,corticosteroidinjections, surgery[3]
+Frequency: 5–10%[4][5]

@@ -1,0 +1,10 @@
+Specialty: Neurology
+Symptoms: Varying degreesmuscle weakness,double vision,drooping eyelids, trouble talking, trouble walking[1]
+Usual onset: Women under 40, men over 60[1]
+Duration: Long term[1]
+Causes: Autoimmune disease[1]
+Diagnostic method: Blood tests for specificantibodies,edrophonium test,nerve conduction studies[1]
+Differential diagnosis: Guillain–Barré syndrome,botulism,organophosphate poisoning,brainstem stroke,[2]metabolic myopathies
+Treatment: Medications,surgical removal of the thymus,plasmapheresis[1]
+Medication: Acetylcholinesterase inhibitors(neostigmine,pyridostigmine),immunosuppressants[1]
+Frequency: 50 to 200 per million[3][4]

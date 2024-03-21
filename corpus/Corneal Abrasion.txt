@@ -1,0 +1,9 @@
+Specialty: Ophthalmology,emergency medicine
+Symptoms: Eye pain,light sensitivity[1]
+Usual onset: Rapid[2]
+Duration: Less than 3 days[1]
+Causes: Minor trauma, contact lens use[1]
+Diagnostic method: Slit lampexam[1]
+Differential diagnosis: Corneal ulcer,globe rupture[1]
+Prevention: Eye protection[1]
+Frequency: 3 per 1,000 per year (United States)[1]

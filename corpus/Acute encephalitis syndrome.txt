@@ -1,0 +1,11 @@
+Specialty: Neurology,infectious disease
+Symptoms: Headache,fever,confusion, stiff neck,vomiting[1]
+Complications: Seizures, trouble speaking,memory problems, problemshearing[1]
+Duration: Weeks to months for recovery[1]
+Types: Herpes simplex,West Nile,rabies,Eastern equine, others[2]
+Causes: Infection, autoimmune, certain medication, unknown[2]
+Diagnostic method: Based on symptoms, supported byblood tests,medical imaging, analysis ofcerebrospinal fluid[2]
+Treatment: Antiviral medication,anticonvulsants,corticosteroids,artificial respiration[1]
+Prognosis: Variable[1]
+Frequency: 4.3 million (2015)[3]
+Deaths: 150,000 (2015)[4]

@@ -1,0 +1,12 @@
+Pronunciation: .mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}/ˈbɒtjʊlɪzəm/
+Specialty: Infectious disease,gastroenterology
+Symptoms: Weakness, trouble seeing,feeling tired, trouble speaking
+Complications: Respiratory failure
+Usual onset: 12 to 72 hours
+Duration: Variable
+Causes: Clostridium botulinum
+Diagnostic method: Finding the bacteria or their toxin
+Differential diagnosis: Myasthenia gravis,Guillain–Barré syndrome,Amyotrophic lateral sclerosis,Lambert Eaton syndrome
+Prevention: Proper food preparation, no honey for children younger than one
+Treatment: Antitoxin, antibiotics,mechanical ventilation
+Prognosis: ~7.5% risk of death

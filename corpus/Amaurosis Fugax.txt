@@ -1,0 +1,4 @@
+Specialty: Neurology,ophthalmology
+Symptoms: Temporary fleeting of vision in one or both eyes
+Complications: Stroke[1][2]
+Duration: Seconds to hours

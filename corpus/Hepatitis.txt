@@ -1,0 +1,9 @@
+Specialty: Infectious disease,gastroenterology,hepatology
+Symptoms: Yellowish skin, poor appetite, abdominal pain[1][2]
+Complications: Scarring of the liver,liver failure,liver cancer[3]
+Duration: Short term or long term[1]
+Causes: Viruses,alcohol, toxins, autoimmune[2][3]
+Prevention: Vaccination (for viral hepatitis),[2]avoiding excessive alcohol
+Treatment: Medication,liver transplant[1][4]
+Frequency: > 500 million cases[3]
+Deaths: > One million a year[3]

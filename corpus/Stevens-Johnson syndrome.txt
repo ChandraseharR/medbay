@@ -1,0 +1,12 @@
+Specialty: Dermatology
+Symptoms: Fever,skin blisters, skin peeling, painful skin,red eyes[1]
+Complications: Dehydration,sepsis,pneumonia,multiple organ failure.[1]
+Usual onset: Age < 30[2]
+Causes: Certain medications, certaininfections, unknown[2][1]
+Risk factors: HIV/AIDS,systemic lupus erythematosus,genetics[1]
+Diagnostic method: <10% of the skin involved,skin biopsy[2]
+Differential diagnosis: Chickenpox,staphylococcal epidermolysis,staphylococcal scalded skin syndrome,autoimmune bullous disease,Smallpox[3]
+Treatment: Hospitalization, stopping the cause[2]
+Medication: Pain medication,antihistamines,antibiotics,corticosteroids,intravenous immunoglobulins[2]
+Prognosis: Mortality ~7.5%[1][4]
+Frequency: 1–2 per million per year (together with TEN)[1]

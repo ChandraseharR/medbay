@@ -1,0 +1,10 @@
+Specialty: Infectious disease
+Symptoms: None,weight loss,abdominal pain[1]
+Complications: Pork tapeworm:cysticercosis[1]
+Types: Taenia solium(pork tapeworm),Taenia saginata(beef tapeworm),Taenia asiatica(Asian tapeworm)[2]
+Causes: Infectionwith adulttapeworms[2][3]
+Risk factors: Eating contaminated undercooked pork or beef[1]
+Diagnostic method: Examination ofstool samples[4]
+Prevention: Properly cooking meat[1]
+Treatment: Praziquantel,niclosamide[1]
+Frequency: 50 million (with cysticercosis)[5]

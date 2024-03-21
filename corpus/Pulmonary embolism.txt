@@ -1,0 +1,9 @@
+Specialty: Hematology,cardiology,pulmonology
+Symptoms: Shortness of breath,chest pain,coughing up blood[1]
+Complications: Passing out,abnormally low blood pressure,sudden death;[2]chronic thromboembolic pulmonary hypertension(long-term complication)
+Usual onset: Advanced age[3]
+Risk factors: Cancer, prolongedbed rest,blunt trauma,smoking,stroke, certaingeneticconditions,estrogen-based medication,pregnancy,obesity, after surgery[3]
+Diagnostic method: Based on symptoms,D-dimer,CT pulmonary angiography,lung ventilation/perfusion scan[4]
+Treatment: Anticoagulants(heparin,warfarin,DOACs)[5]
+Frequency: ~450,000 per year (USA), 430,000 (Europe)[6][7][8]
+Deaths: >10–12,000 per year (US),[9]>30–40,000 per year (Europe)[10]

@@ -1,0 +1,3 @@
+Specialty: Obstetrics,midwifery
+Risk factors: High blood pressure,diabetes,heart disease,renal disease,autoimmune disease,fetal growth restriction,multiple gestations,congenital fetal abnormalities
+Diagnostic method: Based on symptoms, imaging, screening

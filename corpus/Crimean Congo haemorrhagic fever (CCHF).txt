@@ -1,0 +1,9 @@
+Specialty: Infectious disease
+Symptoms: Fever, muscle pains,headache, vomiting,diarrhea,bleeding into the skin[1]
+Complications: Liver failure[1]
+Usual onset: Rapid[1]
+Duration: Two weeks[1]
+Diagnostic method: Detectingantibodies, the virus'sRNA, or viral proteins (antigens).[1]
+Differential diagnosis: Dengue fever,Q fever,[2]Ebola virus disease[3]
+Treatment: Supportive care,ribavirin[1]
+Prognosis: Risk of death ~25%[1]

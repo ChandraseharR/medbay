@@ -1,0 +1,9 @@
+Specialty: Infectious diseases,veterinary medicine
+Symptoms: Fever,muscle pains,headaches[1]
+Complications: Loss of sight,confusion, bleeding,liver problems[1]
+Duration: Up to a week[1]
+Causes: Phlebovirusspread by an infected animal ormosquito[1]
+Diagnostic method: Findingantibodiesor the virus in the blood[1]
+Prevention: Vaccinating animals against the disease, decreasing mosquito bites[1]
+Treatment: Supportive care[1]
+Frequency: Outbreaks inAfricaandArabia[1]

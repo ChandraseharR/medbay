@@ -1,0 +1,7 @@
+Specialty: Ophthalmology,optometry
+Symptoms: Distorted orblurred visionat all distances,eyestrain,headaches[1]
+Complications: Amblyopia[2]
+Causes: Unclear[3]
+Diagnostic method: Eye exam[1]
+Treatment: Glasses,contact lenses, surgery[1]
+Frequency: 30% to 60% of adults (Europe, Asia)[4]

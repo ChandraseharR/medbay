@@ -1,0 +1,9 @@
+Specialty: Psychiatry
+Symptoms: Feel the need to check things repeatedly, performcertain routines repeatedly, havecertain thoughts repeatedly[1]
+Complications: Tics,anxiety disorder,suicide[2][3]
+Usual onset: Before 35 years[1][2]
+Risk factors: Child abuse,stress[2]
+Diagnostic method: Clinically based on symptoms; Y-BOCS is the gold standard tool to assess severity[2]
+Differential diagnosis: Anxiety disorder,major depressive disorder,eating disorders,tic disorders,obsessive–compulsive personality disorder[2]
+Treatment: Counseling,selective serotonin reuptake inhibitors,clomipramine[4][5]
+Frequency: 2.3%[6]

@@ -1,0 +1,11 @@
+Specialty: Gastroenterology,infectious disease
+Symptoms: Typically none[1]
+Complications: Liver failure,liver cancer,esophagealandgastric varices[2]
+Duration: Long term (80%)[1]
+Causes: Hepatitis C virususually spread by blood-to-blood contact[1][3]
+Diagnostic method: Blood testing forantibodiesor viralRNA[1]
+Prevention: Sterile needles, testing donated blood[4]
+Treatment: Medications,liver transplant[5]
+Medication: Antivirals (sofosbuvir,simeprevir, others)[1][4]
+Frequency: 58 million (2019)[4]
+Deaths: 290,000 (2019)[4]

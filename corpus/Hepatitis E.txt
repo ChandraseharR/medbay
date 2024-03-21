@@ -1,0 +1,8 @@
+Specialty: Infectious disease,Hepatology
+Symptoms: Nausea,jaundice[1]
+Complications: Liver failure[1]
+Causes: Hepatitis E virus (HEV)[1]
+Diagnostic method: Blood test[1]
+Differential diagnosis: Hepatitis A[2]
+Treatment: Rest,ribavirin(if chronic)[1]
+Frequency: 28 million worldwide (2013)[3]
